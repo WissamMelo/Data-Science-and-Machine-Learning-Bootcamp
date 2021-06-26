@@ -1,25 +1,15 @@
-#{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "___\n",
-    "\n",
-    "<a href='http://www.pieriandata.com'> <img src='Pierian_Data_Logo.png' /></a>\n",
-    "___\n",
-    "# Welcome to the Course \n",
-    "\n",
-    "This is the repository for the course: **Python for Data Science and Machine Learning Bootcamp**\n",
-    "\n",
-    "Thank you so much for enrolling in the course!\n",
-    "\n",
-    "## Overview of this Repository\n",
-    "\n",
-    "This repository contains everything you need for the course, it has all the notebooks, links"
-   ]
-  }
- ],
+# ________________________________________________________________________
+<a href='http://www.pieriandata.com'> <img src='Pierian_Data_Logo.png' /></a>
+# ________________________________________________________________________
+# Welcome to the Course
+
+This is the repository for the course: **Python for Data Science and Machine Learning Bootcamp**,
+
+Thank you so much for enrolling in the course!,
+
+## Overview of this Repository
+
+This repository contains everything you need for the course, it has all the notebooks, links
  "metadata": {
   "kernelspec": {
    "display_name": "Python 3",
